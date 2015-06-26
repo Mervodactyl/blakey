@@ -53,3 +53,14 @@ h3 {
   font-size: 1.5em;
   margin-bottom: 0.5em;
 }
+
+#images {
+  clear: float;
+}
+
+img {
+  float: left;
+  height: 12em;
+  width: 12em;
+  margin: 0.5em;
+}
