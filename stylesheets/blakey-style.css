@@ -1,19 +1,55 @@
+/*=========*/
+/* IMPORTS*/
+/*=========*/
 @import url("meyer-reset.css");
-
-html {
-  font-size: 16px;
-}
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:600);
+@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700,700italic);
 
 body {
+  /* Apparently it's better to set font-size to 100% because */
+  font-size: 100%;
   padding: 4.5em;
-  vertical-align: baseline;
+  font-family: 'Gentium Book Basic', serif;
+}
+
+.wrapper {
+  width: 39em;
+  margin: 0 auto;
 }
 
 p {
-  line-height: 1em;
+  line-height: 1.5;
+  margin-bottom: 1.5em;
+}
+
+.wrapper *:last-child {
+  margin-bottom: 3em;
+  background: salmon;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  line-height: 1.5;
 }
 
 h1 {
-  font-size: 48px;
-  color: blue;
+  font-size: 3em;
+  line-height: 2;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
 }
