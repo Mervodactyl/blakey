@@ -5,9 +5,7 @@ I represent [Roi](http://github.com/roidriscoll) and [Mervé's](http://github.co
 
 ![portrait of Art Blakey](http://berta11.express.ge/ZoneB/12/performer//Art%20Blakey/.photo/arblakey2.jpg)
 
-[Normalise.css](https://necolas.github.io/normalize.css/) is WAS NOT compatible within the confines of vertical rhythm, however an update means Normalise is now part of the VR family!
-
-[Meyer-reset](http://meyerweb.com/eric/tools/css/reset/) is still used in this example
+[Normalise.css](https://necolas.github.io/normalize.css/) is WAS NOT compatible within the confines of vertical rhythm therefore we choose to use the [Meyer-reset](http://meyerweb.com/eric/tools/css/reset/) in this example
 
 ### The key to Vertical Rhythm is that all elements must take up a height of ( n * base line-height ) where 'n' is an integer value
 
