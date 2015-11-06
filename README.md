@@ -18,14 +18,14 @@ Our Inspiration                                                            |  Th
 
 ## The Story Behind the Music...
 
-[Vertical Rhythm](http://typecast.com/blog/4-simple-steps-to-vertical-rhythm) is one of the most subtle yet powerful formats we as Front End Developers can use to create a webpage; one that is visibly (and subconciously) extremely pleasing to the eye. Yet many Developers completely ignore Vertical Rhythm because it can be difficult, annoying, and just plain boring to implement. Having come across [conflicting articles](http://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/) discussing its relevance within the modern web page, we decided to experiment with the baseline and come to our own conclusions as to its importance. And since this repo would be all about rhythm, we bought in one of the Jazz era's greatest to help us out: Mr [Art Blakey](http://artblakey.com/).
+[Vertical Rhythm](http://typecast.com/blog/4-simple-steps-to-vertical-rhythm) is one of the most subtle yet powerful formats we as Front End Developers can use to create a webpage; one that is visibly (and subconciously) extremely pleasing to the eye. Yet many Developers completely ignore Vertical Rhythm because it can be difficult, annoying, and just plain boring to implement. Having come across [conflicting articles](http://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/) discussing its relevance within the modern web page, we decided to experiment with the baseline using a tool called [Baseliner](http://keyes.ie/things/baseliner/) for visual guidance, and come to our own conclusions as to Vertical Rhythm's importance. And since this repo would be all about rhythm, we bought in one of the Jazz era's greatest to help us out: Mr [Art Blakey](http://artblakey.com/).
 
 ## Tools
 
 * CSS
 * HTML
-* JavaScript ([Baseliner](http://keyes.ie/things/baseliner/))
-* Meyer-Reset ([Meyer-reset](http://meyerweb.com/eric/tools/css/reset/))
+* Baseliner
+* Meyer-Reset
 
 ## Application
 
