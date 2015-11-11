@@ -2,8 +2,6 @@
 
 ### *[Roi](http://github.com/roidriscoll) and [Mervé](http://github.com/Mervodactyl)'s first foray into the visibly musical realm of Vertical Rhythm....*
 
-Check it out at [blakey](LINK TO BE PASTED)
-
 ### TL;DR:
 
 The point of this project is to demonstrate my understanding of Vertical Rhythm and its importance in web design.
